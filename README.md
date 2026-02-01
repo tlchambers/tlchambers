@@ -3,7 +3,7 @@ Hey there, I'm so glad you stopped by! <img src="https://media.giphy.com/media/h
 
 My name is Thuy (it's pronounce as 'Twee'). 
 
-I enjoy learning new things. I thrive on challenges and embrace new technologies with enthusiasm. With a flair for creativity honed in the fashion industry, I've traded fashion for Tech. Currently learning to write beyond 'Hello World' in Power Platfom.
+I enjoy learning new things. I thrive on challenges and embrace new technologies with enthusiasm. With a flair for creativity honed in the fashion industry, I've traded fashion for Tech. Currently a Power Platform developer with proven enterprise delivery, always aiming to expand skills and knowledge.
 
 Let's connect, collaborate, and create something extraordinary together! 🚀 
 
